@@ -40,3 +40,4 @@ print(b.multiple())
 c = FourCal(4, 2)
 print(c.answer())
 
+# test
